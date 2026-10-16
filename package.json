@@ -1,0 +1,13 @@
+{
+  "name": "timber-track-servicenow",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Timber Track: order-to-delivery, procurement and returns automation for ServiceNow",
+  "scripts": {
+    "test": "node --test \"tests/*.test.js\""
+  },
+  "devDependencies": {
+    "acorn": "^8.12.1"
+  },
+  "license": "MIT"
+}
