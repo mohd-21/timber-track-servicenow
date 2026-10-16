@@ -9,5 +9,8 @@
   "devDependencies": {
     "acorn": "^8.12.1"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  }
 }

@@ -74,7 +74,7 @@ docs/                  data model, events, setup
 ## Tests
 
 ```bash
-npm install
+npm install   # Node 22 or newer (uses the built-in test runner glob support)
 npm test
 ```
 
